@@ -8,8 +8,11 @@ see how much time it takes.
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 """
 
+import platform    
 import sys
 from timeit import default_timer as timer
+
+print(platform.python_implementation())
 print(sys.version)
 
 TEST_SIZE = 1_000_000_000
