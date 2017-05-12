@@ -1,5 +1,7 @@
 # Sample output 
-(CPython 3.6.1, i5 2.7GHz / 8GB RAM, macOS 10.10.5 Yosemite):
+Python 3.6.1 (v3.6.1) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+
     
     Testing a 1 000 times loop...
     a += abc: 0.0001518120989203453
