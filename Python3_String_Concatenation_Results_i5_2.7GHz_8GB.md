@@ -1,4 +1,5 @@
-Sample output (CPython 3.6.1, i5 2.7GHz / 8GB RAM, macOS 10.10.5 Yosemite):
+#Sample output 
+(CPython 3.6.1, i5 2.7GHz / 8GB RAM, macOS 10.10.5 Yosemite):
     
     Testing a 1 000 times loop...
     a += abc: 0.0001518120989203453
