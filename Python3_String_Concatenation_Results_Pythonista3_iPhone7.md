@@ -58,7 +58,7 @@ CPython (Pythonista 3)
     append1:  0.1045565419990453
     >>> total: 471.22181162500056
 
-    Testing a 10000000 times loop...
+    Testing a 10 000 000 times loop...
     a += abc: 2.032160124999791
     a + abc:  2.073217500001192
     a + abc():  2.1108365840009355
