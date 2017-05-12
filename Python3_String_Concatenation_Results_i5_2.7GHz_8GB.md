@@ -1,5 +1,5 @@
 # Sample output 
-Python 3.6.1 (v3.6.1) 
+CPython 3.6.1 (v3.6.1) 
 [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
 
     
