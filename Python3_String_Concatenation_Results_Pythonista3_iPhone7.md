@@ -1,7 +1,9 @@
 # Sample output 
 
 CPython (Pythonista 3)
+
 3.5.1 (default, Sep 20 2016, 14:05:14) 
+
 [GCC 4.2.1 Compatible Apple LLVM 7.3.0 (clang-703.0.31)]
 
 
