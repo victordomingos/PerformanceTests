@@ -70,7 +70,7 @@ CPython (Pythonista 3)
     append1:  0.9874175419972744
     >>> total: 10.912518541997997
 
-    Testing a 100000000 times loop...
+    Testing a 100 000 000 times loop...
     a += abc: 19.483371875001467
     a + abc:  19.225842957999703
     a + abc():  15.840384208000614
@@ -82,3 +82,5 @@ CPython (Pythonista 3)
     append1:  10.7480813330003
     >>> total: 126.57591933400181
 
+
+    Out of memory error on 1 000 000 000 times loop.
