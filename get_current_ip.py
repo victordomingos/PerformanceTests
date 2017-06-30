@@ -3,7 +3,7 @@
 """
 Test some different ways to determine external IP and see how much time it takes.
  
- © 2017 Victor Domingos
+© 2017 Victor Domingos
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 """
 
